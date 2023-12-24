@@ -1,6 +1,8 @@
 # bdfd-codes
 bd script codes
 
-```java
+```bd
 $nomention
 ```
+
+```bd
