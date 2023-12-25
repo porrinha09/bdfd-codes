@@ -38,6 +38,9 @@ $onlyAdmin[Apenas para admins!]
 ```
 
 ```bd
+$onInteraction[a]
+```
+```bd
 $addButton[no;id;nome;primary;no;]
 ```
 
