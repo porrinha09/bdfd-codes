@@ -40,3 +40,7 @@ $onlyAdmin[Apenas para admins!]
 ```bd
 $addButton[no;id;nome;primary;no;]
 ```
+
+```bd
+$serverName[$guildID]
+```
