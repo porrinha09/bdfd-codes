@@ -22,7 +22,7 @@ $footer[Pedido por: $username]
 ```
 
 ```bd
-$footer[Pedido por: $username]
+$footer[a]
 ```
 
 ```bd
